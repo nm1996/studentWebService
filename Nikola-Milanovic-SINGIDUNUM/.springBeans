@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.11.201912160804-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/nikola/milanovic/singidunum/config/security-context.xml</config>
+		<config>src/nikola/milanovic/singidunum/config/dao-context.xml</config>
+		<config>src/nikola/milanovic/singidunum/config/service-context.xml</config>
+		<config>WebContent/WEB-INF/project-servlet.xml</config>
+		<config>src/nikola/milanovic/singidunum/config/controller-context.xml</config>
+		<config>src/nikola/milanovic/singidunum/config/aspects-context.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
